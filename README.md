@@ -26,7 +26,7 @@
 *Check out my repositories for more projects!*  
 
 ## 🤝 Let's Connect  
-- 🌐 Find me on [LinkedIn](your-linkedin-profile)  
+- 🌐 Find me on [ilia-shakeri](www.linkedin.com/in/ilia-shakeri)  
 - 🐦 Follow me on Twitter [@CodeByIlia](https://x.com/CodeByIlia)  
 - 📧 Reach out to me at: [iliashkr@gmail.com]  
 
