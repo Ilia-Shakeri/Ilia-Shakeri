@@ -27,6 +27,6 @@ Feel free to connect with me:
 
 - **LinkedIn:** [Linkedin: ilia-shakeri](www.linkedin.com/in/ilia-shakeri)
 - **Twitter:** [@CodeByIlia](https://x.com/CodeByIlia)
-- **Email:** [iliashkr@gamil.com]  
+- **Email:** [iliashkr@gmail.com]  
 
 Thank you for visiting my portfolio!
