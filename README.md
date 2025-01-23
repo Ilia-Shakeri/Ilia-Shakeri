@@ -10,17 +10,9 @@ Hello! I'm Ilia Shakeri, a passionate Python developer with a solid foundation i
 - **Interests:** Cybersecurity, System Administration, DevOps  
 
 ## Cybersecurity Projects  
-In line with my interest in cybersecurity, I am working on the following:  
+### 1. [Password Generator](https://github.com/Ilia-shakeri/password-generator.py)  
+### 2. [Password Security Checker](https://github.com/Ilia-Shakeri/password-security-checker.py)  
 
-### 1. [Password Generator](https://github.com/your-username/your-password-generator-repo)  
-   - **Description:** A user-friendly password generator designed to create strong and secure passwords based on user-defined parameters such as length, and inclusion of symbols, numbers, and uppercase/lowercase letters.   
-   - **Technologies Used:** Python, Tkinter.  
-   - **Highlights:**   
-     - Generates random, secure passwords to help users maintain security.  
-     - Interactive GUI for easy configuration and generation.  
-     - Features a "Copy to Clipboard" button, allowing users to conveniently copy the generated password for immediate use.  
-     - Implements best practices for password creation (e.g., minimum length, complexity).  
-     - Future improvements include adding a password strength meter and other security features.
 
 ## Contact Me  
 Feel free to connect with me:  
