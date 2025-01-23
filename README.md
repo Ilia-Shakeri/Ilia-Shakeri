@@ -10,8 +10,8 @@ Hello! I'm Ilia Shakeri, a passionate Python developer with a solid foundation i
 - **Interests:** Cybersecurity, System Administration, DevOps  
 
 ## Cybersecurity Projects  
-### 1. [Password Generator](https://github.com/Ilia-shakeri/password-generator.py)  
-### 2. [Password Security Checker](https://github.com/Ilia-Shakeri/password-security-checker.py)  
+### 1. [Password Generator](https://github.com/Ilia-Shakeri/Password-Generator)  
+### 2. [Password Security Checker](https://github.com/Ilia-Shakeri/Password-Security-Checker)  
 
 
 ## Contact Me  
