@@ -16,6 +16,7 @@ Hello! I'm Ilia Shakeri, a passionate Python developer with a solid foundation i
 
 ### Bash Scripting Projects  
 3. [Automated Backup Script](https://github.com/Ilia-Shakeri/Automated-Backup-Script)  
+4. [SysTrack](https://github.com/Ilia-Shakeri/SysTrack)
 
 ## Contact Me  
 Feel free to connect with me:  
