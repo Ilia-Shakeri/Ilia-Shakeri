@@ -10,13 +10,14 @@ Hello! I'm Ilia Shakeri, a passionate Python developer with a solid foundation i
 - **Interests:** DevOps, Cybersecurity, System Administration
 
 ## Projects  
-### Cybersecurity Projects  
-1. [Password Generator](https://github.com/Ilia-Shakeri/Password-Generator)  
-2. [Password Security Checker](https://github.com/Ilia-Shakeri/Password-Security-Checker)  
-
 ### Bash Scripting Projects  
-3. [Automated Backup Script](https://github.com/Ilia-Shakeri/Automated-Backup-Script)  
-4. [SysTrack](https://github.com/Ilia-Shakeri/SysTrack)
+1. [Automated Backup Script](https://github.com/Ilia-Shakeri/Automated-Backup-Script)  
+2. [SysTrack](https://github.com/Ilia-Shakeri/SysTrack)
+3. [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard)
+
+### Cybersecurity Projects  
+4. [Password Generator](https://github.com/Ilia-Shakeri/Password-Generator)  
+5. [Password Security Checker](https://github.com/Ilia-Shakeri/Password-Security-Checker)  
 
 ## Contact Me  
 Feel free to connect with me:  
