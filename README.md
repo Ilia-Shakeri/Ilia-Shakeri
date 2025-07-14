@@ -1,13 +1,14 @@
 # Welcome to My GitHub Portfolio  
 
 ## About Me  
-Hello! I'm Ilia Shakeri, a passionate Python developer with a solid foundation in Linux and a growing interest in DevOps and cybersecurity. I have recently completed the LPIC-1 certification and am currently pursuing LPIC-2. I have experience with databases such as MySQL and SQLite.  
+Hello! I'm Ilia Shakeri — a junior DevOps engineer focused on automation, infrastructure, and system reliability. I work with Linux daily and use tools like Docker, Ansible, Bash, and Python to streamline operations and build scalable systems. I'm also exploring CI/CD pipelines, monitoring, and infrastructure as code to improve deployment workflows and team efficiency.  
 
 ## Skills  
-- **Programming Languages:** Python, HTML, CSS  
-- **Databases:** MySQL, SQLite  
-- **Operating Systems:** Linux (LPIC-1 Certified, currently studying for LPIC-2)  
-- **Interests:** DevOps, Cybersecurity, System Administration
+- **Programming Languages:** Bash, Python
+- **DevOps Tools:** Docker, Ansible, Git, Gitlab  
+- **Databases:** MySQL, SQLite, Postresql  
+- **Operating Systems:** Linux, Windows 
+- **Interests:** DevOps, Automation, Cybersecurity, System Administration
 
 ## Projects  
 ### Bash Scripting Projects  
