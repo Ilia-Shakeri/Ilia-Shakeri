@@ -3,8 +3,6 @@
 Junior DevOps here, living in the world of **containers, scripts, and servers**.  
 I turn ☕ + 🖥️ into **automation magic**.  
 
-![DevOps GIF](https://media.giphy.com/media/26xBz2rjL6f2W7T2k/giphy.gif)
-
 ---
 
 ## 🔧 What I play with
