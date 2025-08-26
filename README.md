@@ -15,6 +15,7 @@ Hello! I'm Ilia Shakeri — a junior DevOps engineer focused on automation, infr
 1. [Automated Backup Script](https://github.com/Ilia-Shakeri/Automated-Backup-Script)  
 2. [SysTrack](https://github.com/Ilia-Shakeri/SysTrack)
 3. [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard)
+4. [EasyCert](https://github.com/Ilia-Shakeri/EasyCert)
 
 ### Cybersecurity Projects  
 4. [Password Generator](https://github.com/Ilia-Shakeri/Password-Generator)  
