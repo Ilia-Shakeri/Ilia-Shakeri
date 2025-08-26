@@ -1,31 +1,54 @@
-# Welcome to My GitHub Portfolio  
+# Yo! I'm Ilia-Shakeri 👋🚀
 
-## About Me  
-Hello! I'm Ilia Shakeri — a junior DevOps engineer focused on automation, infrastructure, and system reliability. I work with Linux daily and use tools like Docker, Ansible, Bash, and Python to streamline operations and build scalable systems. I'm also exploring CI/CD pipelines, monitoring, and infrastructure as code to improve deployment workflows and team efficiency.  
+Junior DevOps here, living in the world of **containers, scripts, and servers**.  
+I turn ☕ + 🖥️ into **automation magic**.  
 
-## Skills  
-- **Programming Languages:** Bash, Python
-- **DevOps Tools:** Docker, Ansible, Git, Gitlab  
-- **Databases:** MySQL, SQLite, Postresql  
-- **Operating Systems:** Linux, Windows 
-- **Interests:** DevOps, Automation, Cybersecurity, System Administration
+![DevOps GIF](https://media.giphy.com/media/26xBz2rjL6f2W7T2k/giphy.gif)
 
-## Projects  
-### Bash Scripting Projects  
-1. [Automated Backup Script](https://github.com/Ilia-Shakeri/Automated-Backup-Script)  
-2. [SysTrack](https://github.com/Ilia-Shakeri/SysTrack)
-3. [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard)
-4. [EasyCert](https://github.com/Ilia-Shakeri/EasyCert)
+---
 
-### Cybersecurity Projects  
-4. [Password Generator](https://github.com/Ilia-Shakeri/Password-Generator)  
-5. [Password Security Checker](https://github.com/Ilia-Shakeri/Password-Security-Checker)  
+## 🔧 What I play with
 
-## Contact Me  
-Feel free to connect with me:  
+- **Linux / Bash** 🐧 – I speak fluent CLI  
+- **Docker & Compose** 🐳 – Containers are my playground  
+- **Ansible** ⚡ – Making infra repeatable  
+- **Python** 🐍 – Automation is life  
+- **Networking / SysAdmin** 🌐 – Keeping things connected  
+- **Nginx / Traefik** 🔧 – Reverse proxy master  
+- **PostgreSQL** 🗄️ – Data storage & retrieval  
+- **Cybersecurity basics** 🔒 – Safety first  
 
-- **LinkedIn:** [Linkedin: ilia-shakeri](https://www.linkedin.com/in/ilia-shakeri)  
-- **Twitter:** [@CodeByIlia](https://x.com/CodeByIlia)  
-- **Email:** [iliashkr@gmail.com]  
+---
 
-Thank you for visiting my portfolio!
+## 📌 Projects I'm proud of
+
+| Project | What it does |
+|---------|--------------|
+| [EasyCert](https://github.com/Ilia-Shakeri/EasyCert) | 💻 Wildcard SSL generator. Easy, fast, and interactive. 🔐 |
+| [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard) | 🛡️ Linux security & automation Python scripts. |
+| [Systrack](https://github.com/Ilia-Shakeri/Systrack) | 🎛️ Infrastructure monitoring & system tracking tools. |
+
+---
+
+## 📊 GitHub vibes
+
+![Ilia-Shakeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilia-Shakeri&show_icons=true&theme=tokyonight)
+
+---
+
+## ⚡ Fun facts
+
+- ☕ Powered by coffee & curiosity  
+- 🎹 Piano player in my free time  
+- 🧠 Always hacking on Linux & DevOps experiments  
+- 😎 Junior DevOps with big dreams  
+
+---
+
+## 💌 Hit me up
+
+- GitHub: [Ilia-Shakeri](https://github.com/Ilia-Shakeri)  
+- LinkedIn: [Ilia-Shakeri](https://www.linkedin.com/in/ilia-shakeri)  
+- Email: [iliashkr@gmail.com]
+
+⭐ If you like my tools, give a star! It keeps the automation magic alive 😎✨
