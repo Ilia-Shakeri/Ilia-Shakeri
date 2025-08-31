@@ -23,7 +23,7 @@ I turn ☕ + 🖥️ into **automation magic**.
 | Project | What it does |
 |---------|--------------|
 | [EasyCert](https://github.com/Ilia-Shakeri/EasyCert) | 💻 Wildcard SSL generator. Easy, fast, and interactive. 🔐 |
-| [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard) | 🛡️ Linux security & automation Python scripts. |
+| [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard) | 🛡️ Linux security & automation                 |
 | [Systrack](https://github.com/Ilia-Shakeri/Systrack) | 🎛️ Infrastructure monitoring & system tracking tools. |
 
 ---
