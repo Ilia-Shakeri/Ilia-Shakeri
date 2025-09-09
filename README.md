@@ -17,14 +17,14 @@ I turn ☕ + 🖥️ into **automation magic**.
 - **Cybersecurity basics** 🔒 – Safety first  
 
 ---
-
 ## 📌 Projects I'm proud of
 
 | Project | What it does |
 |---------|--------------|
-| [EasyCert](https://github.com/Ilia-Shakeri/EasyCert) | 💻 Wildcard SSL generator. Easy, fast, and interactive. 🔐 |
-| [LinSecGuard](https://github.com/Ilia-Shakeri/LinSecGuard) | 🛡️ Linux security & automation                 |
-| [Systrack](https://github.com/Ilia-Shakeri/Systrack) | 🎛️ Infrastructure monitoring & system tracking tools. |
+| [Matrix User Manager](https://github.com/Ilia-Shakeri/Matrix-User-Manager) | 🛠️ Lightweight admin CLI for Synapse (Docker) — supports Postgres, SQLite & whiptail |
+| [EasyCert](https://github.com/Ilia-Shaker) | 🔐 Wildcard SSL generator. Easy, fast, and interactive |
+| [LinSecGuard](https://github.com/Ilia-Shaker) | 🛡️ Linux security & automation |
+| [Systrack](https://github.com/Ilia-Shaker) | 🎛️ Infrastructure monitoring & system tracking tools |
 
 ---
 
