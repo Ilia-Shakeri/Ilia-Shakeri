@@ -65,12 +65,6 @@ Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥�
 
 ---
 
-## 📊 GitHub vibes
-
-![Ilia-Shakeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilia-Shakeri&show_icons=true&theme=tokyonight)
-
----
-
 ## ⚡ Fun facts
 
 - ☕ Powered by coffee & curiosity
