@@ -3,8 +3,6 @@ Hey, I'm Ilia-Shakeri
 
 Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥️ into **automation magic**.
 
----
-
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <div align="center">
