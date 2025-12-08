@@ -3,6 +3,9 @@ Hey, I'm Ilia-Shakeri
 
 Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥️ into **automation magic**.
 
+---
+
+
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <div align="center">
@@ -48,7 +51,6 @@ Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥�
   
 </div>
 
----
 
 ## 📌 Projects I'm proud of
 
@@ -61,7 +63,6 @@ Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥�
 | [**LinSecGuard**](https://github.com/Ilia-Shakeri/LinSecGuard) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🛡️ **Server Hardening:** Automated script for Linux security auditing and basic system hardening. |
 | [**Systrack**](https://github.com/Ilia-Shakeri/SysTrack) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🎛️ **Monitoring:** Lightweight infrastructure monitoring and system resource tracking tool. |
 
----
 
 ## ⚡ Fun facts
 
@@ -70,7 +71,6 @@ Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥�
 - 🧠 Always hacking on Linux & DevOps experiments
 - 😎 DevOps Engineer with big dreams
 
----
 
 ## 💌 Hit me up
 
