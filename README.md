@@ -78,5 +78,5 @@ Living in the world of **containers, scripts, and servers**. I turn ☕ + 🖥�
 - LinkedIn: [Ilia-Shakeri](https://www.linkedin.com/in/ilia-shakeri)
 - Email: [iliashkr@gmail.com]
 
-⭐ If you like my tools, give a star!
+If you like my tools, give a star!
 It keeps the automation magic alive 😎✨
